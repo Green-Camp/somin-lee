@@ -1,0 +1,40 @@
+{
+  "title": {
+    "text": "솜도리님, 이런 상품 어때요?",
+    "icon_url": "https://github.com/Green-Camp/somin-lee/assets/46596035/b3281e55-5a14-4f07-a6ab-2579d2d966e8"
+  },
+  "top_banners": [
+    {
+      "background_image_url": "https://github.com/Green-Camp/somin-lee/assets/46596035/8e3f4010-a80f-442d-a2c9-d3f4d4e09d85",
+      "badge": {
+        "label": "기획전",
+        "background_color": "#52514d"
+      },
+      "label": "따스한 겨울\n준비하,",
+      "product_detail": {
+        "brand_name": "twg. official",
+        "label": "캐시미어 100% 터틀넥 스웨터",
+        "discount_rate": 9,
+        "price": 102000,
+        "thumbnail_image_url": "https://github.com/Green-Camp/somin-lee/assets/46596035/8805ceb9-d0f9-482f-bf10-5bb766b45bd5",
+        "product_id": "FW-twg-sweater-1"
+      }
+    },
+    {
+      "background_image_url": "https://github.com/Green-Camp/somin-lee/assets/46596035/1268f51a-7023-456f-9540-84c7a5ea8dc0",
+      "badge": {
+        "label": "기획전",
+        "background_color": "#5f5f69"
+      },
+      "label": "나만의\n홈 오피스,",
+      "product_detail": {
+        "brand_name": "Desk",
+        "label": "슬림 데이터 800",
+        "discount_rate": 16,
+        "price": 160000,
+        "thumbnail_image_url": "https://github.com/Green-Camp/somin-lee/assets/46596035/a3ba33a9-f672-46bc-9dbb-8be2a391a044",
+        "product_id": "desk-1"
+      }
+    }
+  ]
+}

@@ -1,6 +1,7 @@
 package com.example.android
 
 import android.os.Bundle
+import android.util.Log
 import android.view.LayoutInflater
 import android.view.View
 import android.view.ViewGroup
@@ -28,5 +29,9 @@ class HomeFragment : Fragment() {
         binding.btnTempt.setOnClickListener {
             findNavController().navigate(R.id.action_home_to_product_detail)
         }
+
+        val assetLoader = AssetLoader()
+        val homeData = assetLoader.getJsonString(requireContext(), "home.json")
+        Log.d("home data 확인", homeData ?: "")
     }
 }
