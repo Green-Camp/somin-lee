@@ -5,5 +5,5 @@ plugins {
     id 'org.jetbrains.kotlin.android' version '1.8.20' apply false
 }
 ext {
-    navVersion = '2.7.1'
+    navVersion = '2.3.5'
 }
